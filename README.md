@@ -58,10 +58,7 @@ CO1010: Programming for Engineers (Python) · CO1030: Data Structures and Algori
 
 ## 📊 GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=s-monisha11&show_icons=true&theme=tokyonight" height="155" alt="Monisha's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-monisha11&layout=compact&theme=tokyonight" height="155" alt="Most used languages" />
+[View my repositories and contributions](https://github.com/s-monisha11)
 
 </div>
 
